@@ -1,0 +1,35 @@
+Microsoft account password change
+Inbox
+
+Support support@msupdate.net
+
+to me
+
+4:09 PM (26 minutes ago)
+
+Microsoft account
+Your password changed
+
+Your password for the Microsoft account ethan@hooksecurity.co
+ was changed.
+
+If this was you, then you can safely ignore this email.
+
+Security info used:
+Country/region: United States
+Platform: iOS
+Browser: Safari
+IP address: 77.196.86.10
+
+If this wasn't you, your account has been compromised. Please follow these steps:
+
+Reset your password.
+
+Review your security info.
+
+Learn how to make your account more secure.
+
+You can also opt out or change where you receive security notifications.
+
+Thanks,
+The Microsoft account team
